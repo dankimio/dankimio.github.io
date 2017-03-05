@@ -4,7 +4,7 @@ permalink: "/:categories/:title"
 # Setup
 title: Dan Kim
 tagline: "@dankimio"
-url: https://dankim.dk
+url: "https://dankim.dk"
 paginate: 5
 baseurl: ""
 
@@ -18,8 +18,8 @@ sass:
 # About/contact
 author:
   name: Dan Kim
-  url: https://twitter.com/dankimio
-  email: itsdanya@gmail.com
+  url: "https://twitter.com/dankimio"
+  email: "itsdanya@gmail.com"
   twitter: dankimio
   instagram: dankimio
   github: dankimio
