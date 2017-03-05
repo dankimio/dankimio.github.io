@@ -1,30 +1,28 @@
 # Permalinks
-permalink:           pretty
+permalink: "/:categories/:title"
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
-paginate:            1
-baseurl:             ""
+title: Dan Kim
+tagline: "@dankimio"
+url: https://dankim.dk
+paginate: 5
+baseurl: ""
 
 # Assets
 #
 # We specify the directory for Jekyll so we can use @imports.
 sass:
-  sass_dir:          _sass
-  style:            :compressed
+  sass_dir: _sass
+  style: :compressed
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name: Dan Kim
+  url: https://twitter.com/dankimio
+  email: itsdanya@gmail.com
 
 # Custom vars
-version:             2.0.0
-github:
-  repo:              https://github.com/poole/poole
+version: 2.0.0
 
 # Gems
 gems:
