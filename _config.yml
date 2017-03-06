@@ -1,5 +1,5 @@
 # Permalinks
-permalink: "/:categories/:title"
+permalink: "/:categories/:title/"
 
 # Setup
 title: Dan Kim
