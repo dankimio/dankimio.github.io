@@ -17,11 +17,11 @@ You can find me on the internet:
 
 - Backend development: Ruby on Rails, Ruby
 - Mobile app development: iOS, Swift
-- Frontend development: ERB, Slim, SCSS, CoffeeScript, jQuery
+- Front-end development: ERB, Slim, SCSS, CoffeeScript, jQuery
 - Tools: Atom, Xcode, Sublime Text
 - Limited experience in Objective-C, Python, Java
 
-## Working experience
+## Work
 
 - BinaryBlitz (2014–present)
 - Chisto (2016–present)
