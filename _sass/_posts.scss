@@ -12,6 +12,28 @@
   }
 }
 
+.post {
+  .img-inline {
+    text-align: center;
+
+    img {
+      display: inline-block;
+    }
+  }
+
+  .img-inline-sm > img {
+    max-width: 150px;
+  }
+
+  .img-inline-md > img {
+    max-width: 225px;
+  }
+
+  .img-inline-lg > img {
+    max-width: 275px;
+  }
+}
+
 // Blog post or page title
 .page-title,
 .post-title,
@@ -30,7 +52,6 @@
   margin-bottom: 1rem;
   color: #9a9a9a;
 }
-
 
 // Related posts
 .related {
