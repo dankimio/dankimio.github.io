@@ -9,7 +9,7 @@ To view all installed collections use the following command: `$ tlmgr info colle
 
 ![LaTeX collections](/images/2014/latex-cyrillic/latex-collections.png)
 
-Two collections are recommended for cyrillic documents: `collection-fontsrecommended` (collection of widely used fonts) and `collection-langcyrillic` for cyrillc typesetting.
+Two collections are recommended for cyrillic documents: `collection-fontsrecommended` (collection of widely used fonts) and `collection-langcyrillic` for cyrillic typesetting.
 
 Now creating a document with following code will result working russian characters in output file.
 

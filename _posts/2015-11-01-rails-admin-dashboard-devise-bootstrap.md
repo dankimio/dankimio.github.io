@@ -197,6 +197,7 @@ $ rails server
 ![List of posts](/images/2015/rails-admin-dashboard-devise-bootstrap/list-of-posts.png)
 
 ## Authentication
+
 Currently, everyone can visit admin area, so let's enforce authentication for dashboard. It's a good idea to create `AdminController` that all other admin controllers will inherit:
 
 ```ruby
@@ -222,6 +223,7 @@ Now all actions in admin controllers will require authentication. `authenticate_
 ![Sign in page](/images/2015/rails-admin-dashboard-devise-bootstrap/admin-sign-in-1.png)
 
 ## Views
+
 New post form looks like this:
 
 ![New post form](/images/2015/rails-admin-dashboard-devise-bootstrap/new-post.png)
@@ -229,6 +231,7 @@ New post form looks like this:
 We'll add fields to our form and make sure they look good with Bootstrap.
 
 ### Bootstrap
+
 Add Bootstrap to the Gemfile and run `bundle install`.
 
 ```ruby
@@ -400,6 +403,7 @@ This is how admin area looks at the moment:
 ![Admin dashboard with Bootstrap](/images/2015/rails-admin-dashboard-devise-bootstrap/listing-admin-posts.png)
 
 ### Bootstrap for Devise views
+
 Dashboard looks better now, but Devise views still don't have Bootstrap styles. We could override Devise views and customize them as we want to, but there's [devise-bootstrap-views](https://github.com/hisea/devise-bootstrap-views) gem that does the same thing.
 
 ```ruby
@@ -425,6 +429,7 @@ That's it! This is how the sign in form looks like now:
 ![Sign in form with Bootstrap views](/images/2015/rails-admin-dashboard-devise-bootstrap/sign-in-form.png)
 
 ### Customizing index
+
 First, we need to remove `<%= notice %>` code from all index pages, because it is already included in the layout.
 
 ```erb
@@ -538,9 +543,11 @@ Now let's update and clean up `new.html.erb`, `edit.html.erb` and `show.html.erb
 The steps for categories resource are the same. Dashboard looks much better now.
 
 ## Pagination
-It's time for pagination, I will use Kaminari for this purpose, but you can use `will_paginate` as well. Both gems have Bootstrap styles that can be installed with just one generator.
+
+I will use Kaminari for pagination, but you can use `will_paginate` as an alternative. Both gems have Bootstrap styles that can be installed with a generator.
 
 ### Seeds
+
 For testing purposes I'll create a lot of posts in Rails console.
 
 ```ruby
@@ -553,7 +560,8 @@ For testing purposes I'll create a lot of posts in Rails console.
 end
 ```
 
-### Install and set up Kaminari
+### Install and configure Kaminari
+
 ```ruby
 # Gemfile
 gem 'kaminari'
@@ -564,6 +572,7 @@ $ bundle install
 ```
 
 Then, we need to add append `.page()` method to our ActiveRecord relations:
+
 ```ruby
 # app/controllers/admin/posts_controller.rb
 def index
@@ -588,7 +597,7 @@ Pagination now has Bootstrap styles applied:
 
 ![Pagination with Bootstrap](/images/2015/rails-admin-dashboard-devise-bootstrap/bootstrap-pagination.png)
 
-### Future development
+## Future development
 
 1. I18n
 2. Search

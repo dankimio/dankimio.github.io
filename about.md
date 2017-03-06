@@ -3,7 +3,7 @@ layout: page
 title: Dan Kim
 ---
 
-I'm a backend and mobile app developer working at BinaryBlitz. This is my blog where I post mostly about software development and traveling.
+I'm a backend and mobile app developer working at BinaryBlitz. This is my blog where I mostly write about software development and traveling.
 
 You can find me on the internet:
 
