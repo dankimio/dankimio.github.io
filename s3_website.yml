@@ -1,6 +1,7 @@
 s3_id: <%= ENV['S3_ID'] %>
 s3_secret: <%= ENV['S3_SECRET'] %>
-s3_bucket: dankim
+s3_bucket: dankim.dk
+cloudfront_distribution_id: E59TTRE7CMKD4
 
 # Below are examples of all the available configurations.
 # See README for more detailed info on each of them.
@@ -59,4 +60,3 @@ cloudfront_wildcard_invalidation: true
 #       host_name: blog.example.com
 #       replace_key_prefix_with: some_new_path/
 #       http_redirect_code: 301
-
