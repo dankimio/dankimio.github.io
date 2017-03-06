@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Building admin dashboard in Rails with Devise and Bootstrap
+title: Admin dashboard in Rails with Devise and Bootstrap
 ---
 
-While there are a lot of solutions to this problem already ([RailsAdmin](https://github.com/sferik/rails_admin) and [ActiveAdmin](https://github.com/activeadmin/activeadmin)), but they offer too much: theming, exporting, history, etc. That introduces a lot of unnecessary dependencies.
+The existing solutions like [RailsAdmin](https://github.com/sferik/rails_admin) and [ActiveAdmin](https://github.com/activeadmin/activeadmin) offer too many features: templates, export, etc. That introduces many unnecessary dependencies. In this article I will build a simple admin dashboard using Devise and Bootstrap.
 
 ## Features
 

@@ -3,7 +3,9 @@ layout: post
 title: Mutual friendship in Rails
 ---
 
-If you go to StackOverflow, you'll find thousands solutions for friendships in Rails. Creating a Twitter-like subscription model with a clear distinction between following and followers is pretty easy. But mutual friendship (Facebook) requires a bit more code. In this case friends are added only after user's approval:
+If you go to StackOverflow, you'll find hundreds of implementations for friendships. It's easy to create a Twitter subscription model with a clear distinction between following and followers. Mutual friendship, on the other hand, requires more code.
+
+In this case friends are added only after user's approval:
 
 1. `Foo` sends a friend request to `Bar`.
 2. `Bar` accepts the friend request from `Foo`.

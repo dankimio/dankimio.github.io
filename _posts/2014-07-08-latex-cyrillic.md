@@ -3,7 +3,7 @@ layout: post
 title: Cyrillic fonts in LaTeX
 ---
 
-If you want to install TeX on your Mac you can do either by downloading the full TeX Live distribution (2.4 Gb) or getting a smaller BasicTeX (95 Mb), which is 24 times smaller. BasicTeX is a subset of TeX Live and supports most standard TeX typesetting functions. But cyrillic fonts aren't included, but it's easy to install them.
+If you want to install TeX on your Mac you can do it either by downloading a full TeX Live distribution (2.4 Gb) or by getting BasicTeX (95 Mb), which is 24 times smaller. BasicTeX is a subset of TeX Live and supports standard TeX typesetting functions. Cyrillic fonts aren't included, but it's easy to install them.
 
 To view all installed collections use the following command: `$ tlmgr info collections`.
 

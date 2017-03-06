@@ -3,7 +3,7 @@ layout: post
 title: LaTeX cheatsheet
 ---
 
-LaTeX is complicated. There are thousands of packages and millions of ways to do the same thing. I encountered a lot of problems while making reports in LaTeX. I wrote this cheatsheet to make my life a bit easier.
+LaTeX is complicated. Over a thousand packages and millions of ways of doing the same thing. I encountered a lot of problems while writing reports in LaTeX. I wrote this cheatsheet for myself to make my life a bit easier.
 
 ### The basics
 
