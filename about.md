@@ -1,30 +1,36 @@
 ---
 layout: page
-title: About
+title: Dan Kim
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+I'm a backend and mobile app developer working at BinaryBlitz. This is my blog where I post mostly about software development and traveling.
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+You can find me on the internet:
 
-There are currently two themes built on Poole:
+- [Twitter](https://twitter.com/dankimio)
+- [Instagram](https://www.instagram.com/dankimio/)
+- [GitHub](https://github.com/dankimio)
+- [Telegram](https://telegram.me/dankimio)
+- [Email](mailto:itsdanya@gmail.com)
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+## Skills
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+- Backend development: Ruby on Rails, Ruby
+- Mobile app development: iOS, Swift
+- Frontend development: ERB, Slim, SCSS, CoffeeScript, jQuery
+- Tools: Atom, Xcode, Sublime Text
+- Limited experience in Objective-C, Python, Java
 
-## Setup
+## Working experience
 
-Some fun facts about the setup of this project include:
+- BinaryBlitz (2014–present)
+- Chisto (2016–present)
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+## Projects
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+- [acts\_as\_learnable](https://github.com/dankimio/acts_as_learnable): an open-source library for creating flashcards in Ruby.
+- [cactus-jekyll](https://github.com/dankimio/cactus-jekyll): a redesign of Jekyll theme
 
-Thanks for reading!
+## Education
+
+- Bachelor of Software Engineering at Higher School of Economics (2013–2017)
