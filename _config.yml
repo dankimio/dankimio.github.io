@@ -4,7 +4,7 @@ permalink: "/:categories/:title/"
 # Setup
 title: Dan Kim
 tagline: "@dankimio"
-url: "https://dankim.dk"
+url: "https://dankim.io"
 paginate: 10
 baseurl: ""
 
