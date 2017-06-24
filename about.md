@@ -17,7 +17,7 @@ You can find me on the internet:
 
 - Backend development: Ruby on Rails, Ruby
 - Mobile app development: iOS, Swift
-- Front-end development: ERB, Slim, SCSS, CoffeeScript, jQuery
+- Front-end development: HTML5, Slim, Sass, CoffeeScript, ES6, jQuery
 - Tools: Atom, Xcode, Sublime Text
 - Limited experience in Objective-C, Python, Java
 
