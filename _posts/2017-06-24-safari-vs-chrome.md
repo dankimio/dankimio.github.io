@@ -87,7 +87,7 @@ Developers at Google, on the other hand, have done a great job. Never had I seen
 
 Google search is almost instant in Chrome. Search suggestions appear within a flash as you type. Suggestions are much slower in Safari: it can take a second to display suggestions and another second to display search results. It can be infuriating when you need search results as quickly as possible.
 
-![Google Search in Chrome](/images/2017/safari-vs-chrome/safari-sharing.png)
+![Google Search in Chrome](/images/2017/safari-vs-chrome/chrome-search.png)
 
 ## Frequent updates
 
