@@ -16,15 +16,16 @@ You can find me on the internet:
 ## Skills
 
 - Backend development: Ruby on Rails, Ruby
-- Mobile app development: iOS, Swift
-- Front-end development: HTML5, Slim, Sass, CoffeeScript, ES6, jQuery
+- Mobile app development: iOS, Swift, React Native
+- Front-end development: HTML5, Slim, Sass, ES6, React, CoffeeScript, jQuery
 - Tools: Atom, Xcode, Sublime Text
 - Limited experience in Objective-C, Python, Java
 
 ## Work
 
-- BinaryBlitz (2014–present)
-- Chisto (2016–present)
+- [BinaryBlitz](https://binaryblitz.xyz) (2014–present)
+- [Chisto](https://chis.to/?locale=en) (2016–present)
+- [YouModels](https://youmodels.com) (2017–present)
 
 ## Projects
 
