@@ -2,6 +2,15 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+  {% if page.layout == 'post' %}
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="{{ page.title }}">
+    <meta name="twitter:description" content="{{ page.excerpt | remove: '<p>' | remove: '</p>' }}">
+  {% endif %}
+
+  <meta name="twitter:site" content="@{{ site.author.twitter }}">
+  <meta name="twitter:creator" content="@{{ site.author.twitter }}">
+
   <title>
     {% if page.title == "Home" %}
       {{ site.title }} &middot; {{ site.tagline }}
