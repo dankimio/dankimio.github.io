@@ -29,6 +29,5 @@ version: 2.0.0
 analytics_id: UA-76222042-1
 
 # Gems
-gems:
+plugins:
   - jekyll-paginate
-  - jekyll-gist
