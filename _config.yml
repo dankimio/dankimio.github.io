@@ -32,3 +32,4 @@ analytics_id: UA-76222042-1
 # Gems
 plugins:
   - jekyll-paginate
+  - jekyll-sitemap
