@@ -4,6 +4,7 @@ permalink: "/:categories/:title/"
 # Setup
 title: Dan Kim
 tagline: "@dankimio"
+description: A blog about software development, productivity, design and travel by Dan Kim.
 url: "https://dankim.io"
 paginate: 10
 baseurl: ""
