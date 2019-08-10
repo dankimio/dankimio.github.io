@@ -24,7 +24,7 @@ permalink: rework
 - Long projects zap morale. The longer it takes to develop, the less likely it is to launch.
 - The core of your business should be built around things that won’t change. Things that people are going to want today and ten years from now.
 - People use equipment as a crutch.
-- If you’ve got nothing to say … well, you’ve got nothing to say..
+- If you’ve got nothing to say … well, you’ve got nothing to say.
 
 ## Chapter 5 - Productivity
 
@@ -72,4 +72,4 @@ permalink: rework
 
 ## Conclusion
 
-- Inspiration is perishable We all have ideas. Ideas are immortal. They last forever. What doesn’t last forever is inspiration. Inspiration is like fresh fruit or milk: It has an expiration date. If you want to do something, you’ve got to do it now.
+- Inspiration is perishable. We all have ideas. Ideas are immortal. They last forever. What doesn’t last forever is inspiration. Inspiration is like fresh fruit or milk: It has an expiration date. If you want to do something, you’ve got to do it now.
