@@ -16,10 +16,10 @@ You can find me on the internet:
 ## Skills
 
 - Backend development: Ruby on Rails, Ruby
-- Mobile app development: iOS, Swift, React Native
-- Front-end development: HTML5, Slim, Sass, ES6, React, CoffeeScript, jQuery
+- Mobile app development: iOS, Swift
+- Front-end development: HTML5, Slim, Sass, PostCSS, ES6
 - Tools: Atom, Xcode, Sublime Text
-- Limited experience in Objective-C, Python, Java
+- Limited experience in Objective-C, Python, Java, React, React Native
 
 ## Work
 
