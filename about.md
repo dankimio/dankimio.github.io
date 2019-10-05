@@ -23,9 +23,10 @@ You can find me on the internet:
 
 ## Work
 
-- [BinaryBlitz](https://binaryblitz.xyz) (2014–present)
-- [Chisto](https://chis.to/?locale=en) (2016–present)
-- [YouModels](https://youmodels.com) (2017–present)
+- [Binary Blitz](https://binaryblitz.xyz) (2014–2017)
+- [Chisto](https://chis.to/?locale=en) (2016–2017)
+- [YouModels](https://youmodels.com) (2017–2018)
+- [Frogogo](https://frogogo.ru) (2018–present)
 
 ## Projects
 
