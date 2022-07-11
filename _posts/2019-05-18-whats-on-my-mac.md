@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What's on my Mac
-excerpt: Mac apps that I use on a daily basis (as of May 2019).
+excerpt: Mac apps that I use daily (as of May 2019).
 ---
 
 ## Essentials

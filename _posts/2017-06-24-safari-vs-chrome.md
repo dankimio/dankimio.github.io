@@ -3,7 +3,7 @@ layout: post
 title: Safari vs. Chrome
 ---
 
-I always find myself switching between Safari and Chrome. I decided to write down the reasons for choosing one over the other. Currently, I use Chrome and I am planning to switch back to Safari.
+I always find myself switching between Safari and Chrome. I decided to write down the reasons for choosing one over the other. Currently, I use Chrome, and I am planning to switch back to Safari.
 
 # Safari
 
